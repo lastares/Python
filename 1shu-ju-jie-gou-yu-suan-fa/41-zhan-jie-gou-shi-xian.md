@@ -41,9 +41,9 @@ class Stack(object):
 
 if __name__ == "__main__":
     stack = Stack()
-    stack.push("hello")
-    stack.push("world")
-    stack.push("itcast")
+    stack.push('张三丰')
+    stack.push('张辽')
+    stack.push('马超')
     print stack.size()
     print stack.peek()
     print stack.pop()
@@ -51,5 +51,7 @@ if __name__ == "__main__":
     print stack.pop()
 ```
 
+执行过程如下：
 
+![](/assets/stack演示.gif)
 
