@@ -42,7 +42,7 @@ class mingyan(scrapy.Spider):
 ```
 
 ```
-
+scrapy crawl my -a tag=爱情
 ```
 
 
