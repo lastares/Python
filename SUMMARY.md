@@ -8,7 +8,8 @@
   * [1.冒泡排序](2pai-xu-yu-suan-fa/1mao-pao-pai-xu.md)
 * [3.爬虫](3pa-chong.md)
   * [1.Scrapy安装（Windows）](3pa-chong/1scrapyan-zhuang-ff08-windows.md)
-  * [2.爬取爬虫实验室所有文章](3pa-chong/2pa-qu-pa-chong-shi-yan-shi-suo-you-wen-zhang.md)
+  * [2.爬取爬虫实验室所有名言](3pa-chong/2pa-qu-pa-chong-shi-yan-shi-suo-you-wen-zhang.md)
+  * [3.爬取爬虫实验室所有标签](3pa-chong/3pa-qu-pa-chong-shi-yan-shi-suo-you-biao-qian.md)
 * 4.数据库
   * [1.python3连接MySQL](1python3lian-jie-mysql.md)
 
