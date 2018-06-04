@@ -11,6 +11,10 @@ pip install wheel
 ##### 4.下载Twisted-18.4.0-cp36-cp36m-win32.whl并安装
 
 ```
+链接: https://pan.baidu.com/s/1qhVduPTcg_p7oCBIUMvAaA 密码: scdb
+```
+
+```
 pip install Twisted-18.4.0-cp36-cp36m-win32.whl
 ```
 
