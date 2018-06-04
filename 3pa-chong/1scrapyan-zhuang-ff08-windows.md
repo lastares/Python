@@ -24,5 +24,11 @@ pip install Twisted-18.4.0-cp36-cp36m-win32.whl
 pip install Scrapy-1.5.0-py2.py3-none-any.whl
 ```
 
+##### 6.pywin32下载地址
+
+```
+https://github.com/mhammond/pywin32/releases
+```
+
 
 
