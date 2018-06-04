@@ -4,11 +4,7 @@
 import scrapy
 class mingyan(scrapy.Spider):
     name = 'my'
-
-    # urls = [
-    #     'http://lab.scrapyd.cn/page/1/',
-    #     'http://lab.scrapyd.cn/page/2/',
-    # ]
+    # 参数化爬取
     def start_requests(self):
         url = 'http://lab.scrapyd.cn/'
         tag = getattr(self, 'tag', None)
@@ -39,7 +35,7 @@ class mingyan(scrapy.Spider):
             f.write('标签：' + tags)
             f.write("\n-----------------\n")
             f.close()
-
+        # 判断是否有下一页
         if(next_page is not None):
             next_page = response.urljoin(next_page)
             yield scrapy.Request(next_page, callback=self.parse)
