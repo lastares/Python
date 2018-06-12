@@ -13,4 +13,5 @@
   * [4.爬取数据写入MySQL数据库实战](3pa-chong/4pa-qu-shu-ju-xie-ru-mysql-shu-ju-ku-shi-zhan.md)
 * 4.数据库
   * [1.python3连接MySQL](1python3lian-jie-mysql.md)
+* [5.相关模块](5xiang-guan-mo-kuai.md)
 
